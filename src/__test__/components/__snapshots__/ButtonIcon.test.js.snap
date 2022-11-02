@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#3366FF",
+        "borderColor": "#3366FF",
+        "borderRadius": 4,
+        "borderWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "margin": 20,
+        "minHeight": 40,
+        "minWidth": 40,
+        "opacity": 1,
+        "paddingHorizontal": 10,
+        "paddingVertical": 12,
+        "width": "80%",
+      }
+    }
+    testID="buttonIconTest"
+  >
+    <Text
+      appearance="default"
+      category="p1"
+      style={
+        Array [
+          Object {
+            "color": "#222B45",
+            "fontFamily": "System",
+            "fontSize": 15,
+            "fontWeight": "400",
+          },
+          Object {
+            "color": "#FFFFFF",
+            "fontFamily": "System",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "marginHorizontal": 10,
+          },
+        ]
+      }
+    >
+      Testing
+    </Text>
+  </View>
+</View>
+`;
